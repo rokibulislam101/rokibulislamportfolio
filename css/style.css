@@ -37,7 +37,7 @@ body {
   font-family: sans-serif;
   color: transparent;
   -webkit-text-stroke: 0.1px;
-  background: url(img/bgyellosm.png);
+  background: url(bgyellosm.png);
   -webkit-background-clip: text;
   background-position: 0px 0px;
   animation: logo 20s linear infinite;
@@ -448,7 +448,7 @@ section {
   font-family: sans-serif;
   color: transparent;
   -webkit-text-stroke: 0.1px;
-  background: url(img/bgyellosm.png);
+  background: url(bgyellosm.png);
   -webkit-background-clip: text;
   background-position: 0px 0px;
   animation: title 20s linear infinite;
